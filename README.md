@@ -2,6 +2,17 @@
 
 **Slipper-Shot-as-a-Service.** A highly scalable, serverless, passive-aggressive web application built for one purpose: delivering virtual discipline to unsuspecting targets.
 
+## 🔗 Access the Trap
+Click the link below to deploy the slipper:
+
+[**Launch Digital Serupala Adipen**](https://antoshammah.github.io/digital-serupala-adipen/consequences.html) 
+
+
+## 📊 count matters
+check databse: [databse](https://console.firebase.google.com/project/digital-serupala-adipen/database/digital-serupala-adipen-default-rtdb/data)
+
+
+
 Do you have a coworker who didn't read the documentation? Did someone force push to `main` without testing? Send them this "gift."
 
 ## 🎯 How It Works
