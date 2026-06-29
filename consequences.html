@@ -1,0 +1,45 @@
+HTML
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Serupala Adipen</title>
+    
+    <link rel="stylesheet" href="lipstick-for-domi.css">
+    
+</head>
+<body>
+    <h1 class="top-left-title">Digital Serupala Adipen</h1>
+
+    <div class="container">
+        <h2 id="header-text">You have a pending notification</h2>
+        <p id="sub-text">Click the box to open your message...</p>
+
+        <div class="stage">
+            <div class="action-area">
+                <div id="gift-box" class="gift">🎁</div>
+                
+                <img src="image_e73ebf.jpg" id="domi-demo" class="hidden" alt="Domi">
+                
+            </div>
+            <div id="slipper-emoji" class="hidden">🩴</div> 
+        </div>
+
+        <div class="stats-container">
+            <h3 class="stats-title">Global Delivery Metrics</h3>
+            <div class="stats">
+                <p>Links Sent: <span id="count-sent" class="count-number">0</span></p>
+                <p>Boxes Opened: <span id="count-opened" class="count-number">0</span></p>
+                <p>Slipper Shots: <span id="count-shots" class="count-number">0</span></p>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-database.js"></script>
+    
+    <script src="slipper-execution-plan.js"></script>
+    
+</body>
+</html>
